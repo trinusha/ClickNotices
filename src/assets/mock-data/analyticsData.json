@@ -1,0 +1,99 @@
+[
+    {
+        "date" :  "06-06-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2038 ,
+        "rentSuitsCount" :  8,
+        "rentSuitsBalance" :  1080,
+        "evictionsCount" :  11,
+        "evictionsBalance"  :  1569
+    },{
+        "date" :  "6-06-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2310 ,
+        "rentSuitsCount" :  3,
+        "rentSuitsBalance" :  1800,
+        "evictionsCount" :  69,
+        "evictionsBalance"  :  3180
+    },{
+        "date" :  "05-05-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2318 ,
+        "rentSuitsCount" :  18,
+        "rentSuitsBalance" :  1180,
+        "evictionsCount" :  6,
+        "evictionsBalance"  :  1113
+    },{
+        "date" :  "05-05-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2620 ,
+        "rentSuitsCount" :  744,
+        "rentSuitsBalance" :  1850,
+        "evictionsCount" :  8,
+        "evictionsBalance"  :  1330
+    },{
+        "date" :  "03-04-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 6640 ,
+        "rentSuitsCount" :  2,
+        "rentSuitsBalance" :  6540,
+        "evictionsCount" :  4,
+        "evictionsBalance"  :  5200
+    },{
+        "date" :  "03-04-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2220 ,
+        "rentSuitsCount" :  2,
+        "rentSuitsBalance" :  6000,
+        "evictionsCount" :  3,
+        "evictionsBalance"  :  1550
+    },{
+        "date" :  "02-03-2019",
+        "courtesyLetterCount" : 1,
+        "courtesyLetterBalance" : 5100 ,
+        "rentSuitsCount" :  3,
+        "rentSuitsBalance" :  1250,
+        "evictionsCount" :  35,
+        "evictionsBalance"  :  1521
+    },{
+        "date" :  "09-03-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2003 ,
+        "rentSuitsCount" :  1,
+        "rentSuitsBalance" :  1850,
+        "evictionsCount" :  2,
+        "evictionsBalance"  :  1635
+    },{
+        "date" :  "10-02-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2890 ,
+        "rentSuitsCount" :  55,
+        "rentSuitsBalance" :  3400,
+        "evictionsCount" : 66,
+        "evictionsBalance"  :  3330
+    },{
+        "date" :  "01-02-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 1542 ,
+        "rentSuitsCount" :  34,
+        "rentSuitsBalance" :  3737,
+        "evictionsCount" :  61,
+        "evictionsBalance"  :  1615
+    },{
+        "date" :  "11-01-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2330 ,
+        "rentSuitsCount" :  11,
+        "rentSuitsBalance" :  1000,
+        "evictionsCount" :  3,
+        "evictionsBalance"  :  1599
+    },{
+        "date" :  "12-01-2019",
+        "courtesyLetterCount" :  1,
+        "courtesyLetterBalance" : 2090 ,
+        "rentSuitsCount" :  8,
+        "rentSuitsBalance" :  1500,
+        "evictionsCount" :  9,
+        "evictionsBalance"  :  1600
+    }
+]

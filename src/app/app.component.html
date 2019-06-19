@@ -1,0 +1,34 @@
+<div class="top-left">  
+    <div class="topLeftHeading">
+      <h4>Filing Statistics</h4>
+    
+      <select (change)="calculateFilingData()" [(ngModel)]="selectedDate">
+        <option *ngFor="let listItem of dropdownContent"   [value]="listItem.value" >{{ listItem.text }}</option>
+      </select>
+    </div>
+  <table border="1">
+      <tr>
+        <th></th>
+        <th>Number of Filing</th>
+        <th>Total Balance</th>
+      </tr>
+    <tr>
+      <td>Courtesy Letter</td>
+      <td>{{ courtesyLetterSum }}</td>
+      <td>{{ courtesyAmountSum }}</td>
+    </tr>
+    <tr>
+      <td>Rent Suits</td>
+      <td>{{ rentSuitsSum }}</td>
+      <td>{{ rentSuitsAmountSum }}</td>
+    </tr>
+    <tr>
+      <td>Evictions</td>
+      <td>{{ evictionsSum }}</td>
+      <td>{{ evictionsAmountSum }}</td>
+    </tr>
+  </table>
+</div>
+<div class="top-right">
+
+</div>
